@@ -8,7 +8,7 @@
 <h4 align="center"> Boutique Hotel.</h4>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48840681/178850890-861ffc35-b719-4ea5-9a00-321d29379a66.MOV" alt="animated" />
+  <video src="https://user-images.githubusercontent.com/48840681/178850890-861ffc35-b719-4ea5-9a00-321d29379a66.MOV" alt="animated" />
 </p>
 
 
