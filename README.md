@@ -56,7 +56,7 @@ We built a hotel reservation system Graphical interface using our skills and kno
 
 ## Download
  ##### Steps:
- 1. Download the provided <a href="https://github.com/itsalghala/nine-three-quarters/blob/main/WebApplication.zip">zip</a> file.
+ 1. Download the provided <a href="https://github.com/itsalghala/THEHOTEL/blob/main/THEHOTEL.zip">zip</a> file.
  2. Opean netbeans application.
  4. Configuring MySQL and upload the Database provided in the zip file.
  5. Run it.
