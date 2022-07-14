@@ -30,6 +30,7 @@
 
 We are Imam Abdulraham Bin Faisal University Students, this project was a Object Oriented Programming-2 course requirement.
 We built a hotel reservation system Graphical interface using our skills and knoweldge that we gained from the courses along with Database management course.
+<a href="https://github.com/itsalghala/THEHOTEL/blob/main/OOP2-PROJECT-FINAL.pdf">a PDF for more clarification.</a>
 
 ## Credits
 
